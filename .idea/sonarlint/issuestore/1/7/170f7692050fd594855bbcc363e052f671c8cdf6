@@ -1,0 +1,19 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(™‡ëµ8ê½‡ş0
+X	java:S125"<This block of commented-out lines of code should be removed.(¸å©¥8ê½‡ş0
+]	java:S125"<This block of commented-out lines of code should be removed.(ùõÙ“üÿÿÿÿ8ê½‡ş0
+X	java:S125"<This block of commented-out lines of code should be removed.(êáº¤8ê½‡ş0
+]	java:S125"<This block of commented-out lines of code should be removed.(†Øº³ùÿÿÿÿ8õÑî‡ş0
+X	java:S125"<This block of commented-out lines of code should be removed.(¤ßµ­8Ãºî‡ş0
+U	java:S106("9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ8ì½‡ş0
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ8í½‡ş0
+W
+java:S1144";Remove this unused private "removeAnEntityInstance" method.(ıí¬8ûÑî‡ş0
+O
+java:S1144$"2Remove this unused private "executeAQuery" method.(Úµµ¡8ğ½‡ş0
+V
+java:S11440"9Remove this unused private "findAnEntityInstance" method.(äì”Ğ8ğ½‡ş0
+K
+java:S11446".Remove this unused private "mergeUser" method.(áÎ‹8˜Û‡ş0
+I
+java:S1144@",Remove this unused private "addUser" method.(°¡êß8ù©ì‡ş0
